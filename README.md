@@ -12,5 +12,10 @@ Keysight : A company that provides testing and measurement solutions for various
 
 This tool will integrate the three so that users can quickly review the test results of 5G signal measurement professional instruments on JIRA.
 
-![image](https://user-images.githubusercontent.com/126072740/236400598-dfda4541-24d8-458a-8efd-33a9e73ef9b6.png)
+
 ![image](https://user-images.githubusercontent.com/126072740/236401330-e61e72c4-2a7d-4ab8-ae3f-4d7229666f8b.png)
+The screen when the main program is running
+
+
+![image](https://user-images.githubusercontent.com/126072740/236400598-dfda4541-24d8-458a-8efd-33a9e73ef9b6.png)
+Go back to JIRA and you can see that the test results have been updated
